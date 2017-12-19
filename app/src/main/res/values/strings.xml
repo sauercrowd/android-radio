@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RadioApp</string>
+    <string name="stations_url">https://gist.githubusercontent.com/sauercrowd/c0948ced9742a334b0f54b40622d3d72/raw/7421ed4750adca67522dbc680860b95ce114f26b/stations.json</string>
+</resources>
